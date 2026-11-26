@@ -1,0 +1,6 @@
+# Core app and CLI need only the Python 3.10+ standard library.
+# The packages below enable charts, the Streamlit dashboard and DataFrame views.
+streamlit>=1.35
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7

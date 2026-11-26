@@ -1,0 +1,41 @@
+sku,name,category,quantity,unit_price,reorder_level,supplier,last_restocked,created_at
+STN-001,A4 Ruled Notebook (200 pages),Stationery,120,3.5,40,PaperCo,2026-11-12,2026-08-26
+STN-002,Blue Gel Pens (Pack of 10),Stationery,85,4.25,30,PaperCo,2026-11-04,2026-08-26
+STN-003,HB Pencils (Box of 12),Stationery,28,2.1,30,PaperCo,2026-10-10,2026-08-26
+STN-004,Highlighter Set (6 colours),Stationery,0,5.99,15,BrightWrite,2026-09-10,2026-08-11
+STN-005,Sticky Notes 3x3 (Pack of 12),Stationery,60,3.75,20,BrightWrite,2026-11-16,2026-08-26
+STN-006,Stapler with 1000 Staples,Stationery,15,6.4,15,OfficePro,2026-10-25,2026-08-26
+STN-007,Geometry Box,Stationery,42,4.8,10,OfficePro,2026-09-25,2026-08-26
+STN-008,Ballpoint Pens Bulk Case (1000 ct),Stationery,25000,0.15,500,PaperCo,2026-11-19,2026-08-26
+ELC-001,USB-C Charging Cable 1m,Electronics,64,7.99,25,VoltEdge,2026-11-10,2026-08-26
+ELC-002,Wireless Mouse,Electronics,22,12.5,12,VoltEdge,2026-11-02,2026-08-26
+ELC-003,Scientific Calculator FX-991,Electronics,9,24.9,10,CalcWorld,2026-10-05,2026-08-26
+ELC-004,Bluetooth Earbuds,Electronics,2,29.99,10,SoundHive,2026-08-21,2026-07-22
+ELC-005,Laptop 14in Student Edition,Electronics,3,1499.99,2,NovaTech,2026-10-15,2026-08-26
+ELC-006,Power Bank 10000mAh,Electronics,18,19.99,10,VoltEdge,2026-11-06,2026-08-26
+ELC-007,USB Flash Drive 64GB,Electronics,0,8.99,20,DataStor,2026-10-22,2026-08-26
+SNK-001,Instant Noodles Cup,Snacks & Beverages,200,0.99,80,CampusFoods,2026-11-20,2026-08-26
+SNK-002,Cold Coffee Can 250ml,Snacks & Beverages,96,1.75,48,CampusFoods,2026-11-18,2026-08-26
+SNK-003,Granola Bar Box (12),Snacks & Beverages,31,6.5,20,HealthyBite,2026-11-09,2026-08-26
+SNK-004,Mineral Water 1L,Snacks & Beverages,150,0.6,100,CampusFoods,2026-11-21,2026-08-26
+SNK-005,Potato Chips Family Pack,Snacks & Beverages,40,2.2,40,HealthyBite,2026-11-15,2026-08-26
+SNK-006,Chocolate Bar Assorted,Snacks & Beverages,41,1.1,40,HealthyBite,2026-11-15,2026-08-26
+DRM-001,LED Desk Lamp,Dorm Essentials,17,15.99,8,BrightHome,2026-10-27,2026-08-26
+DRM-002,Extension Board 4-Socket,Dorm Essentials,12,11.5,10,VoltEdge,2026-10-19,2026-08-26
+DRM-003,Laundry Bag,Dorm Essentials,33,5.25,10,HomeNest,2026-09-15,2026-08-16
+DRM-004,Foldable Study Table,Dorm Essentials,6,39.0,5,HomeNest,2026-09-30,2026-08-26
+DRM-005,Bedsheet Set Single,Dorm Essentials,14,22.0,8,HomeNest,2026-05-08,2026-04-08
+DRM-006,Water Bottle 750ml Steel,Dorm Essentials,0,9.75,12,HomeNest,2026-07-27,2026-06-27
+LAB-001,Lab Coat (M),Lab Supplies,10,14.5,6,SciWear,2026-10-30,2026-08-26
+LAB-002,Safety Goggles,Lab Supplies,8,6.9,8,SciWear,2026-10-30,2026-08-26
+LAB-003,Nitrile Gloves Box (100),Lab Supplies,22,9.4,15,SciWear,2026-11-13,2026-08-26
+LAB-004,Graph Paper Pad A4,Lab Supplies,54,2.8,20,PaperCo,2026-11-07,2026-08-26
+LAB-005,Disposable Pipettes (Pack of 50),Lab Supplies,7,8.25,10,SciWear,2026-08-31,2026-08-01
+BKP-001,Printing Credits (100 pages),Books & Printing,500,2.0,100,,2026-11-22,2026-08-26
+BKP-002,Spiral Binding Service Token,Books & Printing,75,1.5,25,PrintHub,2026-11-11,2026-08-26
+BKP-003,Course Reader: Intro to Economics,Books & Printing,11,18.0,15,Campus Press,2026-10-15,2026-08-26
+APP-001,University Hoodie (L),Apparel,19,34.0,10,CampusWear,2026-11-01,2026-08-26
+CLN-001,Hand Sanitizer 250ml,Cleaning,48,3.4,30,CleanCo,2026-11-14,2026-08-26
+CLN-002,Reusable Tote Bag - Extra Long Product Name Used To Stress Test Table Layouts 80,Cleaning,36,6.0,12,CleanCo,2026-10-29,2026-08-26
+CLN-003,Free Sample Pack (Promo),Cleaning,300,0.0,0,CleanCo,2026-11-17,2026-08-26
+BKP-004,Exam Answer Booklet (Pack of 20),Books & Printing,90,3.0,30,Campus Press,2026-11-05,2026-08-26

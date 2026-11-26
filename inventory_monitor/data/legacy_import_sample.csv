@@ -1,0 +1,20 @@
+Item Code, Product Name, Category, Qty, Price, Reorder Level, Vendor
+NEW-001, Whiteboard Markers (Pack of 4), Stationery, 45, $6.50, 15, BrightWrite
+new-002, Desk Organiser, Dorm Essentials, 12, 14.99, 6, HomeNest
+NEW-003, Lab Notebook Hardcover, Lab Supplies, "1,200", "3.25", 300, SciWear
+NEW-004, Energy Drink 330ml, Snacks & Beverages, 0, 1.99, 24, CampusFoods
+NEW-005, Reading Glasses Cleaner, Cleaning, 30, 2.50, 10,
+NEW-006, Mystery Item, Stationery, -5, 2.00, 10, PaperCo
+NEW-007, Broken Quantity, Stationery, twelve, 2.00, 10, PaperCo
+NEW-008, , Stationery, 10, 2.00, 10, PaperCo
+??, Bad SKU Item, Stationery, 10, 2.00, 10, PaperCo
+NEW-001, Duplicate Of First Row, Stationery, 9, 2.00, 10, PaperCo
+STN-001, A4 Ruled Notebook (200 pages), Stationery, 999, 3.50, 40, PaperCo
+NEW-009, Three Decimal Price, Stationery, 10, 2.999, 10, PaperCo
+NEW-010, Too Many Columns, Stationery, 10, 2.00, 10, PaperCo, extra, columns
+
+NEW-011, Negative Reorder, Stationery, 10, 2.00, -3, PaperCo
+NEW-012, Fractional Quantity, Stationery, 5.5, 2.00, 10, PaperCo
+NEW-013, , , 10, 2.00, 10, PaperCo
+NEW-014, Absurd Quantity, Stationery, 99999999, 2.00, 10, PaperCo
+NEW-015, USB Hub 4-Port, Electronics, 14, 16.00, 8, VoltEdge

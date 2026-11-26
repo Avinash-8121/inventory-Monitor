@@ -1,0 +1,2087 @@
+{
+  "schema_version": 1,
+  "products": [
+    {
+      "sku": "STN-001",
+      "name": "A4 Ruled Notebook (200 pages)",
+      "category": "Stationery",
+      "quantity": 120,
+      "unit_price": 3.5,
+      "reorder_level": 40,
+      "supplier": "PaperCo",
+      "last_restocked": "2026-11-12",
+      "created_at": "2026-08-26"
+    },
+    {
+      "sku": "STN-002",
+      "name": "Blue Gel Pens (Pack of 10)",
+      "category": "Stationery",
+      "quantity": 85,
+      "unit_price": 4.25,
+      "reorder_level": 30,
+      "supplier": "PaperCo",
+      "last_restocked": "2026-11-04",
+      "created_at": "2026-08-26"
+    },
+    {
+      "sku": "STN-003",
+      "name": "HB Pencils (Box of 12)",
+      "category": "Stationery",
+      "quantity": 28,
+      "unit_price": 2.1,
+      "reorder_level": 30,
+      "supplier": "PaperCo",
+      "last_restocked": "2026-10-10",
+      "created_at": "2026-08-26"
+    },
+    {
+      "sku": "STN-004",
+      "name": "Highlighter Set (6 colours)",
+      "category": "Stationery",
+      "quantity": 0,
+      "unit_price": 5.99,
+      "reorder_level": 15,
+      "supplier": "BrightWrite",
+      "last_restocked": "2026-09-10",
+      "created_at": "2026-08-11"
+    },
+    {
+      "sku": "STN-005",
+      "name": "Sticky Notes 3x3 (Pack of 12)",
+      "category": "Stationery",
+      "quantity": 60,
+      "unit_price": 3.75,
+      "reorder_level": 20,
+      "supplier": "BrightWrite",
+      "last_restocked": "2026-11-16",
+      "created_at": "2026-08-26"
+    },
+    {
+      "sku": "STN-006",
+      "name": "Stapler with 1000 Staples",
+      "category": "Stationery",
+      "quantity": 15,
+      "unit_price": 6.4,
+      "reorder_level": 15,
+      "supplier": "OfficePro",
+      "last_restocked": "2026-10-25",
+      "created_at": "2026-08-26"
+    },
+    {
+      "sku": "STN-007",
+      "name": "Geometry Box",
+      "category": "Stationery",
+      "quantity": 42,
+      "unit_price": 4.8,
+      "reorder_level": 10,
+      "supplier": "OfficePro",
+      "last_restocked": "2026-09-25",
+      "created_at": "2026-08-26"
+    },
+    {
+      "sku": "STN-008",
+      "name": "Ballpoint Pens Bulk Case (1000 ct)",
+      "category": "Stationery",
+      "quantity": 25000,
+      "unit_price": 0.15,
+      "reorder_level": 500,
+      "supplier": "PaperCo",
+      "last_restocked": "2026-11-19",
+      "created_at": "2026-08-26"
+    },
+    {
+      "sku": "ELC-001",
+      "name": "USB-C Charging Cable 1m",
+      "category": "Electronics",
+      "quantity": 64,
+      "unit_price": 7.99,
+      "reorder_level": 25,
+      "supplier": "VoltEdge",
+      "last_restocked": "2026-11-10",
+      "created_at": "2026-08-26"
+    },
+    {
+      "sku": "ELC-002",
+      "name": "Wireless Mouse",
+      "category": "Electronics",
+      "quantity": 22,
+      "unit_price": 12.5,
+      "reorder_level": 12,
+      "supplier": "VoltEdge",
+      "last_restocked": "2026-11-02",
+      "created_at": "2026-08-26"
+    },
+    {
+      "sku": "ELC-003",
+      "name": "Scientific Calculator FX-991",
+      "category": "Electronics",
+      "quantity": 9,
+      "unit_price": 24.9,
+      "reorder_level": 10,
+      "supplier": "CalcWorld",
+      "last_restocked": "2026-10-05",
+      "created_at": "2026-08-26"
+    },
+    {
+      "sku": "ELC-004",
+      "name": "Bluetooth Earbuds",
+      "category": "Electronics",
+      "quantity": 2,
+      "unit_price": 29.99,
+      "reorder_level": 10,
+      "supplier": "SoundHive",
+      "last_restocked": "2026-08-21",
+      "created_at": "2026-07-22"
+    },
+    {
+      "sku": "ELC-005",
+      "name": "Laptop 14in Student Edition",
+      "category": "Electronics",
+      "quantity": 3,
+      "unit_price": 1499.99,
+      "reorder_level": 2,
+      "supplier": "NovaTech",
+      "last_restocked": "2026-10-15",
+      "created_at": "2026-08-26"
+    },
+    {
+      "sku": "ELC-006",
+      "name": "Power Bank 10000mAh",
+      "category": "Electronics",
+      "quantity": 18,
+      "unit_price": 19.99,
+      "reorder_level": 10,
+      "supplier": "VoltEdge",
+      "last_restocked": "2026-11-06",
+      "created_at": "2026-08-26"
+    },
+    {
+      "sku": "ELC-007",
+      "name": "USB Flash Drive 64GB",
+      "category": "Electronics",
+      "quantity": 0,
+      "unit_price": 8.99,
+      "reorder_level": 20,
+      "supplier": "DataStor",
+      "last_restocked": "2026-10-22",
+      "created_at": "2026-08-26"
+    },
+    {
+      "sku": "SNK-001",
+      "name": "Instant Noodles Cup",
+      "category": "Snacks & Beverages",
+      "quantity": 200,
+      "unit_price": 0.99,
+      "reorder_level": 80,
+      "supplier": "CampusFoods",
+      "last_restocked": "2026-11-20",
+      "created_at": "2026-08-26"
+    },
+    {
+      "sku": "SNK-002",
+      "name": "Cold Coffee Can 250ml",
+      "category": "Snacks & Beverages",
+      "quantity": 96,
+      "unit_price": 1.75,
+      "reorder_level": 48,
+      "supplier": "CampusFoods",
+      "last_restocked": "2026-11-18",
+      "created_at": "2026-08-26"
+    },
+    {
+      "sku": "SNK-003",
+      "name": "Granola Bar Box (12)",
+      "category": "Snacks & Beverages",
+      "quantity": 31,
+      "unit_price": 6.5,
+      "reorder_level": 20,
+      "supplier": "HealthyBite",
+      "last_restocked": "2026-11-09",
+      "created_at": "2026-08-26"
+    },
+    {
+      "sku": "SNK-004",
+      "name": "Mineral Water 1L",
+      "category": "Snacks & Beverages",
+      "quantity": 150,
+      "unit_price": 0.6,
+      "reorder_level": 100,
+      "supplier": "CampusFoods",
+      "last_restocked": "2026-11-21",
+      "created_at": "2026-08-26"
+    },
+    {
+      "sku": "SNK-005",
+      "name": "Potato Chips Family Pack",
+      "category": "Snacks & Beverages",
+      "quantity": 40,
+      "unit_price": 2.2,
+      "reorder_level": 40,
+      "supplier": "HealthyBite",
+      "last_restocked": "2026-11-15",
+      "created_at": "2026-08-26"
+    },
+    {
+      "sku": "SNK-006",
+      "name": "Chocolate Bar Assorted",
+      "category": "Snacks & Beverages",
+      "quantity": 41,
+      "unit_price": 1.1,
+      "reorder_level": 40,
+      "supplier": "HealthyBite",
+      "last_restocked": "2026-11-15",
+      "created_at": "2026-08-26"
+    },
+    {
+      "sku": "DRM-001",
+      "name": "LED Desk Lamp",
+      "category": "Dorm Essentials",
+      "quantity": 17,
+      "unit_price": 15.99,
+      "reorder_level": 8,
+      "supplier": "BrightHome",
+      "last_restocked": "2026-10-27",
+      "created_at": "2026-08-26"
+    },
+    {
+      "sku": "DRM-002",
+      "name": "Extension Board 4-Socket",
+      "category": "Dorm Essentials",
+      "quantity": 12,
+      "unit_price": 11.5,
+      "reorder_level": 10,
+      "supplier": "VoltEdge",
+      "last_restocked": "2026-10-19",
+      "created_at": "2026-08-26"
+    },
+    {
+      "sku": "DRM-003",
+      "name": "Laundry Bag",
+      "category": "Dorm Essentials",
+      "quantity": 33,
+      "unit_price": 5.25,
+      "reorder_level": 10,
+      "supplier": "HomeNest",
+      "last_restocked": "2026-09-15",
+      "created_at": "2026-08-16"
+    },
+    {
+      "sku": "DRM-004",
+      "name": "Foldable Study Table",
+      "category": "Dorm Essentials",
+      "quantity": 6,
+      "unit_price": 39.0,
+      "reorder_level": 5,
+      "supplier": "HomeNest",
+      "last_restocked": "2026-09-30",
+      "created_at": "2026-08-26"
+    },
+    {
+      "sku": "DRM-005",
+      "name": "Bedsheet Set Single",
+      "category": "Dorm Essentials",
+      "quantity": 14,
+      "unit_price": 22.0,
+      "reorder_level": 8,
+      "supplier": "HomeNest",
+      "last_restocked": "2026-05-08",
+      "created_at": "2026-04-08"
+    },
+    {
+      "sku": "DRM-006",
+      "name": "Water Bottle 750ml Steel",
+      "category": "Dorm Essentials",
+      "quantity": 0,
+      "unit_price": 9.75,
+      "reorder_level": 12,
+      "supplier": "HomeNest",
+      "last_restocked": "2026-07-27",
+      "created_at": "2026-06-27"
+    },
+    {
+      "sku": "LAB-001",
+      "name": "Lab Coat (M)",
+      "category": "Lab Supplies",
+      "quantity": 10,
+      "unit_price": 14.5,
+      "reorder_level": 6,
+      "supplier": "SciWear",
+      "last_restocked": "2026-10-30",
+      "created_at": "2026-08-26"
+    },
+    {
+      "sku": "LAB-002",
+      "name": "Safety Goggles",
+      "category": "Lab Supplies",
+      "quantity": 8,
+      "unit_price": 6.9,
+      "reorder_level": 8,
+      "supplier": "SciWear",
+      "last_restocked": "2026-10-30",
+      "created_at": "2026-08-26"
+    },
+    {
+      "sku": "LAB-003",
+      "name": "Nitrile Gloves Box (100)",
+      "category": "Lab Supplies",
+      "quantity": 22,
+      "unit_price": 9.4,
+      "reorder_level": 15,
+      "supplier": "SciWear",
+      "last_restocked": "2026-11-13",
+      "created_at": "2026-08-26"
+    },
+    {
+      "sku": "LAB-004",
+      "name": "Graph Paper Pad A4",
+      "category": "Lab Supplies",
+      "quantity": 54,
+      "unit_price": 2.8,
+      "reorder_level": 20,
+      "supplier": "PaperCo",
+      "last_restocked": "2026-11-07",
+      "created_at": "2026-08-26"
+    },
+    {
+      "sku": "LAB-005",
+      "name": "Disposable Pipettes (Pack of 50)",
+      "category": "Lab Supplies",
+      "quantity": 7,
+      "unit_price": 8.25,
+      "reorder_level": 10,
+      "supplier": "SciWear",
+      "last_restocked": "2026-08-31",
+      "created_at": "2026-08-01"
+    },
+    {
+      "sku": "BKP-001",
+      "name": "Printing Credits (100 pages)",
+      "category": "Books & Printing",
+      "quantity": 500,
+      "unit_price": 2.0,
+      "reorder_level": 100,
+      "supplier": "",
+      "last_restocked": "2026-11-22",
+      "created_at": "2026-08-26"
+    },
+    {
+      "sku": "BKP-002",
+      "name": "Spiral Binding Service Token",
+      "category": "Books & Printing",
+      "quantity": 75,
+      "unit_price": 1.5,
+      "reorder_level": 25,
+      "supplier": "PrintHub",
+      "last_restocked": "2026-11-11",
+      "created_at": "2026-08-26"
+    },
+    {
+      "sku": "BKP-003",
+      "name": "Course Reader: Intro to Economics",
+      "category": "Books & Printing",
+      "quantity": 11,
+      "unit_price": 18.0,
+      "reorder_level": 15,
+      "supplier": "Campus Press",
+      "last_restocked": "2026-10-15",
+      "created_at": "2026-08-26"
+    },
+    {
+      "sku": "APP-001",
+      "name": "University Hoodie (L)",
+      "category": "Apparel",
+      "quantity": 19,
+      "unit_price": 34.0,
+      "reorder_level": 10,
+      "supplier": "CampusWear",
+      "last_restocked": "2026-11-01",
+      "created_at": "2026-08-26"
+    },
+    {
+      "sku": "CLN-001",
+      "name": "Hand Sanitizer 250ml",
+      "category": "Cleaning",
+      "quantity": 48,
+      "unit_price": 3.4,
+      "reorder_level": 30,
+      "supplier": "CleanCo",
+      "last_restocked": "2026-11-14",
+      "created_at": "2026-08-26"
+    },
+    {
+      "sku": "CLN-002",
+      "name": "Reusable Tote Bag - Extra Long Product Name Used To Stress Test Table Layouts 80",
+      "category": "Cleaning",
+      "quantity": 36,
+      "unit_price": 6.0,
+      "reorder_level": 12,
+      "supplier": "CleanCo",
+      "last_restocked": "2026-10-29",
+      "created_at": "2026-08-26"
+    },
+    {
+      "sku": "CLN-003",
+      "name": "Free Sample Pack (Promo)",
+      "category": "Cleaning",
+      "quantity": 300,
+      "unit_price": 0.0,
+      "reorder_level": 0,
+      "supplier": "CleanCo",
+      "last_restocked": "2026-11-17",
+      "created_at": "2026-08-26"
+    },
+    {
+      "sku": "BKP-004",
+      "name": "Exam Answer Booklet (Pack of 20)",
+      "category": "Books & Printing",
+      "quantity": 90,
+      "unit_price": 3.0,
+      "reorder_level": 30,
+      "supplier": "Campus Press",
+      "last_restocked": "2026-11-05",
+      "created_at": "2026-08-26"
+    }
+  ],
+  "movements": [
+    {
+      "timestamp": "2026-09-28T11:59:00",
+      "sku": "BKP-004",
+      "kind": "sale",
+      "delta": -9,
+      "resulting_qty": 74,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-09-28T17:08:00",
+      "sku": "LAB-003",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 23,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-09-29T18:08:00",
+      "sku": "BKP-002",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 69,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-09-30T09:16:00",
+      "sku": "CLN-002",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 46,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-09-30T10:32:00",
+      "sku": "CLN-001",
+      "kind": "sale",
+      "delta": -5,
+      "resulting_qty": 43,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-09-30T14:04:00",
+      "sku": "STN-004",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 3,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-09-30T18:05:00",
+      "sku": "DRM-001",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 18,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-09-30T19:22:00",
+      "sku": "LAB-003",
+      "kind": "restock",
+      "delta": 1,
+      "resulting_qty": 24,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-10-01T15:30:00",
+      "sku": "APP-001",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 27,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-01T17:32:00",
+      "sku": "SNK-001",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 244,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-02T10:58:00",
+      "sku": "STN-007",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 44,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-02T13:22:00",
+      "sku": "STN-006",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 19,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-03T13:08:00",
+      "sku": "BKP-003",
+      "kind": "restock",
+      "delta": 2,
+      "resulting_qty": 10,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-10-03T13:29:00",
+      "sku": "ELC-003",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 18,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-03T16:22:00",
+      "sku": "CLN-002",
+      "kind": "sale",
+      "delta": -4,
+      "resulting_qty": 42,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-03T18:17:00",
+      "sku": "DRM-003",
+      "kind": "sale",
+      "delta": -3,
+      "resulting_qty": 35,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-04T12:08:00",
+      "sku": "SNK-004",
+      "kind": "sale",
+      "delta": -10,
+      "resulting_qty": 162,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-04T13:02:00",
+      "sku": "SNK-003",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 34,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-04T13:07:00",
+      "sku": "STN-002",
+      "kind": "sale",
+      "delta": -4,
+      "resulting_qty": 107,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-04T14:26:00",
+      "sku": "DRM-006",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 1,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-04T15:14:00",
+      "sku": "STN-007",
+      "kind": "restock",
+      "delta": 4,
+      "resulting_qty": 48,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-10-04T17:51:00",
+      "sku": "STN-003",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 34,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-05T11:47:00",
+      "sku": "ELC-005",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 4,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-05T13:27:00",
+      "sku": "STN-007",
+      "kind": "sale",
+      "delta": -3,
+      "resulting_qty": 45,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-05T15:55:00",
+      "sku": "SNK-004",
+      "kind": "restock",
+      "delta": 2,
+      "resulting_qty": 164,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-10-06T09:28:00",
+      "sku": "ELC-001",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 66,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-06T13:35:00",
+      "sku": "STN-001",
+      "kind": "restock",
+      "delta": 14,
+      "resulting_qty": 94,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-10-06T13:44:00",
+      "sku": "DRM-004",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 13,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-06T14:26:00",
+      "sku": "SNK-004",
+      "kind": "sale",
+      "delta": -10,
+      "resulting_qty": 154,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-06T15:10:00",
+      "sku": "LAB-002",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 15,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-06T15:58:00",
+      "sku": "STN-002",
+      "kind": "restock",
+      "delta": 5,
+      "resulting_qty": 112,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-10-06T16:30:00",
+      "sku": "DRM-002",
+      "kind": "restock",
+      "delta": 2,
+      "resulting_qty": 16,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-10-07T12:07:00",
+      "sku": "STN-006",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 18,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-08T10:21:00",
+      "sku": "SNK-003",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 33,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-08T12:16:00",
+      "sku": "STN-008",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 25010,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-08T13:31:00",
+      "sku": "CLN-003",
+      "kind": "sale",
+      "delta": -13,
+      "resulting_qty": 276,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-08T15:19:00",
+      "sku": "ELC-002",
+      "kind": "restock",
+      "delta": 1,
+      "resulting_qty": 20,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-10-08T16:24:00",
+      "sku": "STN-006",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 16,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-09T09:12:00",
+      "sku": "ELC-001",
+      "kind": "sale",
+      "delta": -3,
+      "resulting_qty": 63,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-09T10:30:00",
+      "sku": "DRM-005",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 17,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-09T10:47:00",
+      "sku": "BKP-004",
+      "kind": "restock",
+      "delta": 10,
+      "resulting_qty": 84,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-10-09T14:38:00",
+      "sku": "SNK-002",
+      "kind": "sale",
+      "delta": -3,
+      "resulting_qty": 119,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-09T19:19:00",
+      "sku": "SNK-006",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 47,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-10T09:29:00",
+      "sku": "DRM-004",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 12,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-10T11:35:00",
+      "sku": "STN-006",
+      "kind": "restock",
+      "delta": 2,
+      "resulting_qty": 18,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-10-10T14:22:00",
+      "sku": "DRM-005",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 16,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-10T16:07:00",
+      "sku": "SNK-002",
+      "kind": "sale",
+      "delta": -9,
+      "resulting_qty": 110,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-10T18:30:00",
+      "sku": "ELC-004",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 7,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-11T11:33:00",
+      "sku": "DRM-002",
+      "kind": "restock",
+      "delta": 2,
+      "resulting_qty": 18,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-10-11T13:01:00",
+      "sku": "ELC-002",
+      "kind": "restock",
+      "delta": 1,
+      "resulting_qty": 21,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-10-11T13:15:00",
+      "sku": "LAB-004",
+      "kind": "restock",
+      "delta": 4,
+      "resulting_qty": 56,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-10-11T13:43:00",
+      "sku": "STN-005",
+      "kind": "restock",
+      "delta": 2,
+      "resulting_qty": 79,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-10-11T13:53:00",
+      "sku": "ELC-001",
+      "kind": "restock",
+      "delta": 7,
+      "resulting_qty": 70,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-10-11T14:28:00",
+      "sku": "ELC-007",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 3,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-11T14:32:00",
+      "sku": "STN-004",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 1,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-11T15:55:00",
+      "sku": "ELC-003",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 16,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-12T09:02:00",
+      "sku": "ELC-003",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 14,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-12T18:07:00",
+      "sku": "LAB-002",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 14,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-12T19:06:00",
+      "sku": "BKP-001",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 533,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-13T10:15:00",
+      "sku": "ELC-004",
+      "kind": "restock",
+      "delta": 2,
+      "resulting_qty": 9,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-10-13T10:49:00",
+      "sku": "ELC-003",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 12,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-13T10:53:00",
+      "sku": "BKP-001",
+      "kind": "sale",
+      "delta": -5,
+      "resulting_qty": 528,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-13T11:58:00",
+      "sku": "DRM-001",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 17,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-13T13:02:00",
+      "sku": "CLN-002",
+      "kind": "sale",
+      "delta": -3,
+      "resulting_qty": 39,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-13T14:06:00",
+      "sku": "BKP-004",
+      "kind": "restock",
+      "delta": 7,
+      "resulting_qty": 91,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-10-13T17:08:00",
+      "sku": "ELC-006",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 29,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-13T19:13:00",
+      "sku": "DRM-002",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 16,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-14T10:24:00",
+      "sku": "ELC-006",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 28,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-14T15:45:00",
+      "sku": "CLN-003",
+      "kind": "restock",
+      "delta": 15,
+      "resulting_qty": 291,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-10-15T11:40:00",
+      "sku": "STN-005",
+      "kind": "sale",
+      "delta": -7,
+      "resulting_qty": 72,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-15T13:40:00",
+      "sku": "LAB-005",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 5,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-15T16:26:00",
+      "sku": "STN-002",
+      "kind": "sale",
+      "delta": -7,
+      "resulting_qty": 105,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-15T18:21:00",
+      "sku": "CLN-003",
+      "kind": "restock",
+      "delta": 1,
+      "resulting_qty": 292,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-10-16T11:01:00",
+      "sku": "BKP-003",
+      "kind": "restock",
+      "delta": 2,
+      "resulting_qty": 12,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-10-16T11:27:00",
+      "sku": "STN-005",
+      "kind": "sale",
+      "delta": -6,
+      "resulting_qty": 66,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-16T12:53:00",
+      "sku": "DRM-002",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 15,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-17T10:31:00",
+      "sku": "ELC-002",
+      "kind": "restock",
+      "delta": 2,
+      "resulting_qty": 23,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-10-17T11:35:00",
+      "sku": "LAB-001",
+      "kind": "restock",
+      "delta": 2,
+      "resulting_qty": 14,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-10-17T13:01:00",
+      "sku": "SNK-004",
+      "kind": "restock",
+      "delta": 6,
+      "resulting_qty": 160,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-10-17T14:35:00",
+      "sku": "LAB-005",
+      "kind": "restock",
+      "delta": 2,
+      "resulting_qty": 7,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-10-17T19:10:00",
+      "sku": "SNK-002",
+      "kind": "sale",
+      "delta": -11,
+      "resulting_qty": 99,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-19T09:33:00",
+      "sku": "ELC-005",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 2,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-19T16:32:00",
+      "sku": "SNK-004",
+      "kind": "sale",
+      "delta": -6,
+      "resulting_qty": 154,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-19T19:07:00",
+      "sku": "SNK-006",
+      "kind": "restock",
+      "delta": 2,
+      "resulting_qty": 49,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-10-20T11:58:00",
+      "sku": "SNK-001",
+      "kind": "sale",
+      "delta": -12,
+      "resulting_qty": 232,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-20T17:42:00",
+      "sku": "DRM-004",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 10,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-21T09:32:00",
+      "sku": "BKP-001",
+      "kind": "sale",
+      "delta": -5,
+      "resulting_qty": 523,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-21T14:23:00",
+      "sku": "SNK-006",
+      "kind": "restock",
+      "delta": 2,
+      "resulting_qty": 51,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-10-21T18:21:00",
+      "sku": "BKP-002",
+      "kind": "restock",
+      "delta": 8,
+      "resulting_qty": 77,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-10-21T19:24:00",
+      "sku": "ELC-006",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 26,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-22T14:15:00",
+      "sku": "SNK-001",
+      "kind": "restock",
+      "delta": 11,
+      "resulting_qty": 243,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-10-23T10:13:00",
+      "sku": "ELC-001",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 68,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-23T12:21:00",
+      "sku": "DRM-004",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 8,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-23T16:37:00",
+      "sku": "STN-001",
+      "kind": "restock",
+      "delta": 14,
+      "resulting_qty": 108,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-10-24T11:48:00",
+      "sku": "STN-001",
+      "kind": "restock",
+      "delta": 15,
+      "resulting_qty": 123,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-10-24T12:26:00",
+      "sku": "ELC-003",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 10,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-24T14:50:00",
+      "sku": "ELC-002",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 22,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-24T17:37:00",
+      "sku": "DRM-003",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 34,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-25T12:47:00",
+      "sku": "SNK-002",
+      "kind": "sale",
+      "delta": -12,
+      "resulting_qty": 87,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-25T19:27:00",
+      "sku": "SNK-005",
+      "kind": "restock",
+      "delta": 1,
+      "resulting_qty": 55,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-10-26T12:51:00",
+      "sku": "DRM-001",
+      "kind": "restock",
+      "delta": 1,
+      "resulting_qty": 18,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-10-26T15:01:00",
+      "sku": "STN-004",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 0,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-26T16:48:00",
+      "sku": "ELC-004",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 7,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-27T10:19:00",
+      "sku": "CLN-003",
+      "kind": "restock",
+      "delta": 13,
+      "resulting_qty": 305,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-10-27T11:21:00",
+      "sku": "SNK-005",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 53,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-28T12:15:00",
+      "sku": "BKP-004",
+      "kind": "restock",
+      "delta": 6,
+      "resulting_qty": 97,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-10-28T12:42:00",
+      "sku": "BKP-002",
+      "kind": "sale",
+      "delta": -6,
+      "resulting_qty": 71,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-28T13:06:00",
+      "sku": "LAB-004",
+      "kind": "restock",
+      "delta": 3,
+      "resulting_qty": 59,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-10-28T13:31:00",
+      "sku": "APP-001",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 25,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-28T16:58:00",
+      "sku": "SNK-001",
+      "kind": "sale",
+      "delta": -15,
+      "resulting_qty": 228,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-29T13:48:00",
+      "sku": "DRM-003",
+      "kind": "sale",
+      "delta": -3,
+      "resulting_qty": 31,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-29T16:23:00",
+      "sku": "BKP-002",
+      "kind": "restock",
+      "delta": 4,
+      "resulting_qty": 75,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-10-29T18:10:00",
+      "sku": "CLN-003",
+      "kind": "restock",
+      "delta": 5,
+      "resulting_qty": 310,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-10-29T18:42:00",
+      "sku": "LAB-002",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 12,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-30T10:15:00",
+      "sku": "LAB-004",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 58,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-30T12:19:00",
+      "sku": "BKP-001",
+      "kind": "sale",
+      "delta": -12,
+      "resulting_qty": 511,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-30T16:50:00",
+      "sku": "LAB-001",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 12,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-30T17:13:00",
+      "sku": "ELC-002",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 20,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-30T17:32:00",
+      "sku": "ELC-001",
+      "kind": "sale",
+      "delta": -8,
+      "resulting_qty": 60,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-30T18:21:00",
+      "sku": "STN-006",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 16,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-30T18:45:00",
+      "sku": "LAB-003",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 22,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-31T09:20:00",
+      "sku": "LAB-002",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 10,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-31T15:28:00",
+      "sku": "STN-005",
+      "kind": "sale",
+      "delta": -6,
+      "resulting_qty": 60,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-10-31T19:21:00",
+      "sku": "BKP-001",
+      "kind": "sale",
+      "delta": -11,
+      "resulting_qty": 500,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-01T11:06:00",
+      "sku": "SNK-006",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 49,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-01T12:04:00",
+      "sku": "ELC-004",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 5,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-01T13:10:00",
+      "sku": "SNK-001",
+      "kind": "sale",
+      "delta": -12,
+      "resulting_qty": 216,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-02T09:34:00",
+      "sku": "STN-002",
+      "kind": "sale",
+      "delta": -6,
+      "resulting_qty": 99,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-02T12:42:00",
+      "sku": "STN-005",
+      "kind": "restock",
+      "delta": 5,
+      "resulting_qty": 65,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-11-02T17:42:00",
+      "sku": "DRM-004",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 6,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-02T18:26:00",
+      "sku": "STN-003",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 33,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-02T19:23:00",
+      "sku": "SNK-005",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 52,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-02T19:44:00",
+      "sku": "SNK-001",
+      "kind": "sale",
+      "delta": -14,
+      "resulting_qty": 202,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-03T11:57:00",
+      "sku": "DRM-006",
+      "kind": "restock",
+      "delta": 2,
+      "resulting_qty": 3,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-11-03T19:12:00",
+      "sku": "CLN-001",
+      "kind": "sale",
+      "delta": -5,
+      "resulting_qty": 38,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-04T09:15:00",
+      "sku": "STN-002",
+      "kind": "sale",
+      "delta": -6,
+      "resulting_qty": 93,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-04T14:24:00",
+      "sku": "LAB-002",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 8,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-05T10:32:00",
+      "sku": "APP-001",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 24,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-05T12:00:00",
+      "sku": "ELC-003",
+      "kind": "restock",
+      "delta": 1,
+      "resulting_qty": 11,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-11-05T13:23:00",
+      "sku": "DRM-005",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 15,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-05T15:05:00",
+      "sku": "SNK-003",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 32,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-05T16:23:00",
+      "sku": "STN-008",
+      "kind": "restock",
+      "delta": 15,
+      "resulting_qty": 25025,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-11-05T17:46:00",
+      "sku": "DRM-006",
+      "kind": "restock",
+      "delta": 2,
+      "resulting_qty": 5,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-11-05T18:55:00",
+      "sku": "SNK-001",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 200,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-06T11:50:00",
+      "sku": "STN-001",
+      "kind": "sale",
+      "delta": -3,
+      "resulting_qty": 120,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-06T19:30:00",
+      "sku": "SNK-004",
+      "kind": "sale",
+      "delta": -4,
+      "resulting_qty": 150,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-07T10:37:00",
+      "sku": "DRM-002",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 14,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-07T17:33:00",
+      "sku": "BKP-004",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 95,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-07T19:04:00",
+      "sku": "ELC-007",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 2,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-08T09:53:00",
+      "sku": "APP-001",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 23,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-08T11:01:00",
+      "sku": "BKP-001",
+      "kind": "restock",
+      "delta": 8,
+      "resulting_qty": 508,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-11-08T16:49:00",
+      "sku": "SNK-005",
+      "kind": "sale",
+      "delta": -4,
+      "resulting_qty": 48,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-09T09:04:00",
+      "sku": "ELC-007",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 1,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-09T18:13:00",
+      "sku": "DRM-001",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 17,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-10T11:05:00",
+      "sku": "STN-006",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 15,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-10T12:05:00",
+      "sku": "BKP-004",
+      "kind": "sale",
+      "delta": -5,
+      "resulting_qty": 90,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-10T13:23:00",
+      "sku": "CLN-001",
+      "kind": "restock",
+      "delta": 4,
+      "resulting_qty": 42,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-11-10T13:45:00",
+      "sku": "ELC-006",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 24,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-10T14:11:00",
+      "sku": "BKP-003",
+      "kind": "restock",
+      "delta": 1,
+      "resulting_qty": 13,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-11-10T16:01:00",
+      "sku": "DRM-001",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 16,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-11T09:41:00",
+      "sku": "DRM-001",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 15,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-11T11:03:00",
+      "sku": "LAB-004",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 56,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-11T14:20:00",
+      "sku": "ELC-004",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 3,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-11T16:36:00",
+      "sku": "BKP-001",
+      "kind": "sale",
+      "delta": -8,
+      "resulting_qty": 500,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-11T19:35:00",
+      "sku": "ELC-003",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 9,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-12T09:56:00",
+      "sku": "SNK-006",
+      "kind": "sale",
+      "delta": -4,
+      "resulting_qty": 45,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-12T18:43:00",
+      "sku": "ELC-007",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 0,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-13T17:07:00",
+      "sku": "LAB-005",
+      "kind": "restock",
+      "delta": 2,
+      "resulting_qty": 9,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-11-14T13:48:00",
+      "sku": "ELC-004",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 2,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-14T14:14:00",
+      "sku": "DRM-005",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 13,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-14T15:31:00",
+      "sku": "LAB-004",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 54,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-14T18:25:00",
+      "sku": "SNK-002",
+      "kind": "restock",
+      "delta": 9,
+      "resulting_qty": 96,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-11-15T09:17:00",
+      "sku": "DRM-006",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 3,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-15T09:25:00",
+      "sku": "SNK-005",
+      "kind": "sale",
+      "delta": -4,
+      "resulting_qty": 44,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-15T13:02:00",
+      "sku": "STN-007",
+      "kind": "sale",
+      "delta": -3,
+      "resulting_qty": 42,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-15T15:02:00",
+      "sku": "ELC-005",
+      "kind": "restock",
+      "delta": 1,
+      "resulting_qty": 3,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-11-15T15:22:00",
+      "sku": "SNK-006",
+      "kind": "sale",
+      "delta": -4,
+      "resulting_qty": 41,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-16T09:53:00",
+      "sku": "STN-008",
+      "kind": "sale",
+      "delta": -11,
+      "resulting_qty": 25014,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-16T14:51:00",
+      "sku": "CLN-001",
+      "kind": "restock",
+      "delta": 6,
+      "resulting_qty": 48,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-11-16T15:30:00",
+      "sku": "APP-001",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 21,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-17T09:34:00",
+      "sku": "DRM-006",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 1,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-17T10:04:00",
+      "sku": "ELC-002",
+      "kind": "restock",
+      "delta": 2,
+      "resulting_qty": 22,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-11-17T11:14:00",
+      "sku": "ELC-006",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 22,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-17T14:01:00",
+      "sku": "STN-003",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 31,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-18T10:12:00",
+      "sku": "DRM-003",
+      "kind": "restock",
+      "delta": 2,
+      "resulting_qty": 33,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-11-18T15:46:00",
+      "sku": "ELC-006",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 20,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-19T10:00:00",
+      "sku": "ELC-006",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 18,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-19T15:28:00",
+      "sku": "BKP-003",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 11,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-19T16:05:00",
+      "sku": "STN-002",
+      "kind": "sale",
+      "delta": -8,
+      "resulting_qty": 85,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-19T16:30:00",
+      "sku": "DRM-005",
+      "kind": "restock",
+      "delta": 1,
+      "resulting_qty": 14,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-11-21T19:17:00",
+      "sku": "CLN-002",
+      "kind": "sale",
+      "delta": -3,
+      "resulting_qty": 36,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-22T10:30:00",
+      "sku": "APP-001",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 20,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-22T10:36:00",
+      "sku": "DRM-006",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 0,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-22T11:30:00",
+      "sku": "LAB-005",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 7,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-22T19:41:00",
+      "sku": "STN-005",
+      "kind": "sale",
+      "delta": -5,
+      "resulting_qty": 60,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-23T10:34:00",
+      "sku": "SNK-003",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 31,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-23T13:03:00",
+      "sku": "ELC-001",
+      "kind": "restock",
+      "delta": 4,
+      "resulting_qty": 64,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-11-23T14:44:00",
+      "sku": "SNK-005",
+      "kind": "sale",
+      "delta": -4,
+      "resulting_qty": 40,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-24T10:56:00",
+      "sku": "STN-008",
+      "kind": "sale",
+      "delta": -14,
+      "resulting_qty": 25000,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-24T11:17:00",
+      "sku": "LAB-001",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 10,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-24T13:52:00",
+      "sku": "DRM-001",
+      "kind": "restock",
+      "delta": 2,
+      "resulting_qty": 17,
+      "note": "Supplier delivery"
+    },
+    {
+      "timestamp": "2026-11-24T14:42:00",
+      "sku": "CLN-003",
+      "kind": "sale",
+      "delta": -10,
+      "resulting_qty": 300,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-24T15:51:00",
+      "sku": "DRM-002",
+      "kind": "sale",
+      "delta": -2,
+      "resulting_qty": 12,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-24T17:31:00",
+      "sku": "APP-001",
+      "kind": "sale",
+      "delta": -1,
+      "resulting_qty": 19,
+      "note": "Counter sale"
+    },
+    {
+      "timestamp": "2026-11-24T19:04:00",
+      "sku": "STN-003",
+      "kind": "sale",
+      "delta": -3,
+      "resulting_qty": 28,
+      "note": "Counter sale"
+    }
+  ]
+}

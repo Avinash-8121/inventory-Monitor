@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Inventory Stock Monitor — Launcher</title>
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+      background: #0f172a;
+      color: #e2e8f0;
+      padding: 24px;
+    }
+    .card {
+      max-width: 520px;
+      width: 100%;
+      background: #1e293b;
+      border: 1px solid #334155;
+      border-radius: 14px;
+      padding: 28px;
+      box-shadow: 0 20px 45px rgba(0, 0, 0, 0.4);
+    }
+    h1 {
+      margin: 0 0 8px;
+      font-size: 1.4rem;
+      color: #f8fafc;
+    }
+    p {
+      margin: 0 0 18px;
+      color: #94a3b8;
+      line-height: 1.5;
+    }
+    .status {
+      padding: 12px 14px;
+      border-radius: 10px;
+      background: #0f172a;
+      border: 1px solid #334155;
+      font-size: 0.95rem;
+      margin-bottom: 18px;
+    }
+    .actions {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin-bottom: 18px;
+    }
+    a.btn {
+      display: inline-block;
+      padding: 10px 16px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: 600;
+      background: #2563eb;
+      color: #ffffff;
+    }
+    a.btn.secondary {
+      background: #334155;
+      color: #e2e8f0;
+    }
+    a.btn:hover { opacity: 0.9; }
+    code {
+      display: block;
+      padding: 10px 12px;
+      border-radius: 8px;
+      background: #0f172a;
+      color: #38bdf8;
+      font-size: 0.85rem;
+      overflow-x: auto;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>Inventory Stock Monitor</h1>
+    <p>Connecting to your local website…</p>
+
+    <div id="status" class="status">Checking http://localhost:8501 and http://localhost:8502…</div>
+
+    <div class="actions">
+      <a class="btn" href="http://localhost:8501">Open localhost:8501</a>
+      <a class="btn secondary" href="http://localhost:8502">Open localhost:8502</a>
+    </div>
+
+    <p style="font-size: 0.88rem; margin-bottom: 8px;">
+      If the website isn't running yet, double-click <strong>Open_Inventory_Monitor.bat</strong> in this folder (or run in VS Code terminal):
+    </p>
+    <code>streamlit run streamlit_app.py</code>
+  </div>
+
+  <script>
+    const urls = ["http://localhost:8501", "http://localhost:8502"];
+    const statusEl = document.getElementById("status");
+
+    async function checkAndRedirect() {
+      for (const url of urls) {
+        try {
+          await fetch(url, { mode: "no-cors", cache: "no-store" });
+          statusEl.textContent = `Server found at ${url}. Redirecting…`;
+          window.location.replace(url);
+          return;
+        } catch (_) {
+          // Try next port
+        }
+      }
+      statusEl.textContent = "Local server is not running yet. Retrying every 2 seconds…";
+    }
+
+    checkAndRedirect();
+    setInterval(checkAndRedirect, 2000);
+  </script>
+</body>
+</html>
